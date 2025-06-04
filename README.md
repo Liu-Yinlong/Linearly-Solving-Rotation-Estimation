@@ -79,7 +79,12 @@ Note that "**It maps circles on the sphere to circles or lines on the plane**". 
 
 ## 6DoF Real-World Experiments
 <p align=center>  
-<img src="./img/small_recall_rigid.png" width="500">
+<img src="./img/small_recall_rigid.png" width="600">
+</p>
+
+## Multiple Rotation Estimation
+<p align=center>  
+<img src="./test_multiple_rotation/multi-rotation.png" width="800">
 </p>
 
 ***
