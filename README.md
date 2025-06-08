@@ -82,7 +82,7 @@ Note that "**It maps circles on the sphere to circles or lines on the plane**". 
 <img src="./img/small_recall_rigid.png" width="600">
 </p>
 
-## Multiple Rotation Estimation
+## Multiple Rigid Motion Estimation
 <p align=center>  
 <img src="./test_rigid_code/multi-rigid-all-clean_00.png" width="1000">
 </p>
