@@ -1,7 +1,15 @@
 This is the code to verify the feasibility of the quaternion circle, which is realted to the paper
       
 Y. Liu, T. Huang and Z. -X. Yang, "Linearly Solving Robust Rotation Estimation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2026.3707470. [https://ieeexplore.ieee.org/document/11578277](https://ieeexplore.ieee.org/document/11578277)
-      
+
+      @ARTICLE{Liu_2026_Linear,
+      author={Liu, Yinlong and Huang, Tianyu and Yang, Zhi-Xin},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      title={Linearly Solving Robust Rotation Estimation}, 
+      year={2026},
+      pages={1-18},
+      doi={10.1109/TPAMI.2026.3707470}}
+
 ***
 
 <p align=center>  
